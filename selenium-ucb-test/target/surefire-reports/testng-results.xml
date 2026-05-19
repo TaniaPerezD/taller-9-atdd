@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-18T21:17:50 GMT-04:00" name="Surefire suite" finished-at="2026-05-18T21:18:38 GMT-04:00" duration-ms="47411">
+  <suite started-at="2026-05-18T21:34:11 GMT-04:00" name="Surefire suite" finished-at="2026-05-18T21:34:48 GMT-04:00" duration-ms="36631">
     <groups>
     </groups>
-    <test started-at="2026-05-18T21:17:50 GMT-04:00" name="Surefire test" finished-at="2026-05-18T21:18:38 GMT-04:00" duration-ms="47411">
+    <test started-at="2026-05-18T21:34:11 GMT-04:00" name="Surefire test" finished-at="2026-05-18T21:34:48 GMT-04:00" duration-ms="36631">
       <class name="com.ucb.selenium.CalendarioMedicinaUCBTest">
-        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:17:50 GMT-04:00" name="setDriver" finished-at="2026-05-18T21:18:04 GMT-04:00" duration-ms="13127" status="PASS">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:34:11 GMT-04:00" name="setDriver" finished-at="2026-05-18T21:34:13 GMT-04:00" duration-ms="1934" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setDriver -->
-        <test-method signature="verificarCalendarioMedicinaTest()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:18:04 GMT-04:00" name="verificarCalendarioMedicinaTest" finished-at="2026-05-18T21:18:33 GMT-04:00" duration-ms="29732" status="PASS">
+        <test-method signature="verificarCalendarioMedicinaTest()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:34:13 GMT-04:00" name="verificarCalendarioMedicinaTest" finished-at="2026-05-18T21:34:47 GMT-04:00" duration-ms="34114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verificarCalendarioMedicinaTest -->
-        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:18:33 GMT-04:00" name="closeDriver" finished-at="2026-05-18T21:18:38 GMT-04:00" duration-ms="4538" status="PASS">
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.ucb.selenium.CalendarioMedicinaUCBTest@358c99f5]" started-at="2026-05-18T21:34:47 GMT-04:00" name="closeDriver" finished-at="2026-05-18T21:34:48 GMT-04:00" duration-ms="542" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->
